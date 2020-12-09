@@ -727,8 +727,8 @@ classnames@^2.2.5:
   resolved "https://registry.yarnpkg.com/classnames/-/classnames-2.2.5.tgz#fb3801d453467649ef3603c7d61a02bd129bde6d"
 
 clipboard@^2.0.0:
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/clipboard/-/clipboard-2.0.1.tgz#a12481e1c13d8a50f5f036b0560fe5d16d74e46a"
+  version "2.0.6"
+  resolved "https://registry.yarnpkg.com/clipboard/-/clipboard-2.0.6.tgz#52921296eec0fdf77ead1749421b21c968647376"
   dependencies:
     good-listener "^1.2.2"
     select "^1.1.2"
@@ -1580,8 +1580,8 @@ performance-now@^2.1.0:
   resolved "https://registry.yarnpkg.com/performance-now/-/performance-now-2.1.0.tgz#6309f4e0e5fa913ec1c69307ae364b4b377c9e7b"
 
 prismjs@^1.14.0:
-  version "1.14.0"
-  resolved "https://registry.yarnpkg.com/prismjs/-/prismjs-1.14.0.tgz#bbccfdb8be5d850d26453933cb50122ca0362ae0"
+  version "1.22.0"
+  resolved "https://registry.yarnpkg.com/prismjs/-/prismjs-1.22.0.tgz#73c3400afc58a823dd7eed023f8e1ce9fd8977fa"
   optionalDependencies:
     clipboard "^2.0.0"
 
@@ -1946,8 +1946,8 @@ tcp-port-used@^0.1.2:
     q "0.9.7"
 
 tiny-emitter@^2.0.0:
-  version "2.0.2"
-  resolved "https://registry.yarnpkg.com/tiny-emitter/-/tiny-emitter-2.0.2.tgz#82d27468aca5ade8e5fd1e6d22b57dd43ebdfb7c"
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/tiny-emitter/-/tiny-emitter-2.1.0.tgz#1d1a56edfc51c43e863cbb5382a72330e3555423"
 
 to-fast-properties@^1.0.3:
   version "1.0.3"
